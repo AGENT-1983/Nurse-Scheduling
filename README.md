@@ -1,2 +1,3 @@
 # Nurse-Scheduling
-This is my first project
+This is my first trial group project
+Author Saptarshi Chakraborty
